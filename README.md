@@ -10,4 +10,6 @@ We use an existing model that can detect hands and fingers from a model named me
 
 We need to lift our index finger and move it to draw the object we want. If we want to select another color or eraser and stop the drawing activity, we must lift both our index and middle fingers. To erase, we select the eraser object and delete it the same way as when drawing. To clear all of the images, we simply lift our four fingers except the thumb.
 
+![Uploading image.png…]()
+
 Source: https://www.computervision.zone/courses/ai-virtual-painter/
