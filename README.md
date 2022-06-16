@@ -16,5 +16,19 @@ We use an existing model that can detect hands and fingers from a model named me
 
 <img src="https://user-images.githubusercontent.com/88226713/173982541-7109de3d-0306-4472-993a-be4d1c6fc0af.png" width="500">
 
+## Dependencies
+
+Numpy | OpenCV | Mediapipe
+--- | --- | ---
+
+Install the required packages by executing the following command.
+
+`$ pip install -r requirements.txt`
+
+## Files
+* main.py : main program to execute real-time webcam virtual painter
+* handtrackingmodule.py : detect and draw hand landmarks 
+* Header : a folder contains the header of painter components
+
 
 Source: https://www.computervision.zone/courses/ai-virtual-painter/
