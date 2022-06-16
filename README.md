@@ -30,4 +30,5 @@ Install the required packages by executing the following command.
 * handtrackingmodule.py : detect and draw hand landmarks 
 * Header : a folder contains the header of painter components
 
+
 Source: https://www.computervision.zone/courses/ai-virtual-painter/
