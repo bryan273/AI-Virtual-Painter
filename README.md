@@ -1,8 +1,8 @@
 # AI Virtual Painter
- Paint directly to the monitor through motion without touching screen
+ Paint directly to the monitor through motion without touching the screen
 
 ## Description:
- In this pandemic situation, sometimes we cannot be separated from the online meeting. In several online meetings, we sometimes find it challenging to describe what we want to convey when we do not have something to display. Therefore, we designed software that utilizes computer vision field so users can write or draw directly without touching their screen
+ In this pandemic situation, sometimes we cannot be separated from the online meeting. In several online meetings, we sometimes find it challenging to describe what we want to convey when we do not have something to display. Therefore, we designed software that utilizes computer vision field so users can write or draw directly without touching their screen.
 
 We use an existing model that can detect hands and fingers from a model named mediapipe. Through this model, we create a program that can draw and write something on a real-time webcam without touching the screen. The program has features to select colors and delete images. These features utilize the position of our fingers and hands to change it.
 
